@@ -8,12 +8,11 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
-    # @fn fibonacci(n)
-    #  @brief nまでのフィボナッチ計算をする
-    #  @param   n (int): 1つ目の引数
-    #  @return   int: fibonacci(n-1)+fibonacci(n-2), n==0のとき0, n==1のとき1
 
-
+# @fn fibonacci(n)
+#  @brief nまでのフィボナッチ計算をする
+#  @param   n (int): 1つ目の引数
+#  @return   int: fibonacci(n-1)+fibonacci(n-2), n==0のとき0, n==1のとき1
 def fibonacci(n):
     if n == 0:
         return 0
