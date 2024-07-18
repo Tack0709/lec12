@@ -4,9 +4,9 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = AddOrMultForLecture
+PROJECT_NAME           = FactorialAndFibonacci
 PROJECT_NUMBER         = 0.1
-PROJECT_BRIEF          = Add or Mult project
+PROJECT_BRIEF          = Factorial and Fibonacci project
 PROJECT_LOGO           =
 OUTPUT_DIRECTORY       =
 CREATE_SUBDIRS         = NO
